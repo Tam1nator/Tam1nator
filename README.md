@@ -18,12 +18,9 @@ I’m a Computer Science student at TU Berlin and work part-time as a web develo
 
 #
 
-### Stats
-![Tam1nator's Github stats](https://github-readme-stats.vercel.app/api?username=Tam1nator&show_icons=true&theme=merko)
+### 📊 Stats
+![Tam1nator's Github stats](https://github-readme-stats.vercel.app/api?username=Tam1nator&show_icons=true&theme=merko&include_all_commits)
 
-#
-### Test
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tam1nator&layout=compact)
    
 <!--
 **Tam1nator/Tam1nator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
