@@ -14,7 +14,10 @@ I’m a Computer Science student at TU Berlin and work part-time as a web develo
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
  <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-          
+
+## Stats
+![Tam1nator's Github stats](https://github-readme-stats.vercel.app/api?username=Tam1nator&show_icons=true&theme=merko)
+   
 <!--
 **Tam1nator/Tam1nator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
