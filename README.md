@@ -20,7 +20,6 @@ I’m a Computer Science student at TU Berlin and work part-time as a web develo
 
 ### 📊 Stats
 ![Tam1nator's Github stats](https://github-readme-stats.vercel.app/api?username=Tam1nator&theme=merko&show_icons=true&include_all_commits=true&count_private=true)
-![Tam1nator's Github stats](https://github-readme-stats.vercel.app/api?username=Tam1nator&show_icons=true&theme=merko&include_all_commits=true)
 
    
 <!--
